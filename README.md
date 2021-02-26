@@ -2,6 +2,6 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentdoerig&show_icons=true&count_private=true&hide=issues&theme=ayu-mirage" alt="Vincent's GitHub stats" />
+I'm an aspiring software engineer and curious developer, currently in my last year of High School. I love to work with JavaScript, Node.js for the backend and Vue as a frontend framework with TailwindCSS. Besides programming, I enjoy working out 🤸‍♂️, swimming 🏊‍♂️, rowing 🚣‍♂️, photography 📷 and many other things.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentdoerig&layout=compact&theme=ayu-mirage" alt="Vincent's most used Languages" />
+To contact me, reach out @ vincent@doerig.dev or over on [Twitter](https://twitter.com/vincentdoerig).
